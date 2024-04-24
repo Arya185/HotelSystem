@@ -1,0 +1,66 @@
+*{
+    background-color: #E1F0DA;
+}
+  
+  h1{
+    text-align: center;
+    padding: 30px;
+    padding-bottom: 0px;
+    color: #789461;
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+#sortDropdown{
+    width: 150px;
+    height: 30px;
+    margin-left: 600px;
+    margin-bottom: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #294B29;
+    font-size: 15px;
+   
+}
+h4{
+    text-align: center;
+    color: #294B29;
+    font-size: 20px;
+}
+p{
+    text-align: center;
+    color: #50623A;
+}
+.card{
+    
+
+     width: 380px;
+     height: 550px;
+     box-shadow: 2px 10px 20px rgba(0, 0, 0, 0.2);
+     transition: transform 0.3s ease;
+    margin-bottom: 40px;
+    border: 2px solid;
+   
+    border-color: #789461;
+    margin-left: 30px;
+   
+}
+
+button{
+    width:150px;
+    height: 45px;
+    border-radius: 25px;
+    margin: 20px;
+    margin-left: 110px;
+    color: white;
+    background-color: #789461;
+    font-size: 20px;
+    border: none;
+}
+img{
+    height: 300px;
+   
+    
+}
+.grid-container{
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
